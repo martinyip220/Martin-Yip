@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **martinyip220@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/martin-yip-889a9b261/</h3>
 <p align="left">
 </p>
 
