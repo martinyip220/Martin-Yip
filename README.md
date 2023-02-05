@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ChatCord - a clone of Discord**
+- 🔭 I’m currently working on **Clickr - a clone of Flickr**
 
 - 🌱 I’m currently learning **Python, Flask, SQLAlchemy**
 
