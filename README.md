@@ -15,6 +15,7 @@ Skills: <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="n
 
 <img width="330" height="200" alt="splashpage" src="https://camo.githubusercontent.com/8b1e42daef7893083bedba026569fa3ec113d633499f44690c928eabaff5d638/68747470733a2f2f692e696d6775722e636f6d2f47784c5454484b2e6a7067"><img width="330" height="200" alt="splashpage" src="https://camo.githubusercontent.com/5452b7351278dc0e7ee1f83458f102d71a3fbb6c0ab55d57433035029598671e/68747470733a2f2f692e696d6775722e636f6d2f4d6d7a654456782e6a7067"><img width="330" height="200" alt="splashpage" src="https://camo.githubusercontent.com/4ca16d0e296cee687c8273d336e4a6b439b0a4627ab181a1c03610eec652e2d7/68747470733a2f2f692e696d6775722e636f6d2f437367424349702e706e67">
 
+# Connect with me!
 [<img src='https://www.svgrepo.com/show/922/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martin-yip-889a9b261//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg' alt='angellist' height='40'>](https://angel.co/u/martin-yip)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyip220)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinyip220&show_icons=true&count_private=true)  
