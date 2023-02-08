@@ -18,9 +18,10 @@ Skills: <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="n
 
 [<img width="330" height="200" alt="splashpage" src="https://camo.githubusercontent.com/8b1e42daef7893083bedba026569fa3ec113d633499f44690c928eabaff5d638/68747470733a2f2f692e696d6775722e636f6d2f47784c5454484b2e6a7067">](https://clickr.onrender.com/) [<img width="330" height="200" alt="splashpage" src="https://camo.githubusercontent.com/5452b7351278dc0e7ee1f83458f102d71a3fbb6c0ab55d57433035029598671e/68747470733a2f2f692e696d6775722e636f6d2f4d6d7a654456782e6a7067">](https://disclone-irt9.onrender.com/) [<img width="330" height="200" alt="splashpage" src="https://camo.githubusercontent.com/4ca16d0e296cee687c8273d336e4a6b439b0a4627ab181a1c03610eec652e2d7/68747470733a2f2f692e696d6775722e636f6d2f437367424349702e706e67">](https://mybnb-project.onrender.com/)
 
-### 💻Connect with me!
+### 💻Connect with me
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/martin-yip-889a9b261/)  [<img src='https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black' alt='angellist' height='40'>](https://angel.co/u/martin-yip)  
 
+### 📊My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyip220)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinyip220&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=martinyip220)  
