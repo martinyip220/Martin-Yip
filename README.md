@@ -26,8 +26,13 @@ A software developer based in San Francisco 🌉 with a passion for problem-solv
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/martin-yip-889a9b261/)  [<img src='https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black' alt='angellist' height='30'>](https://angel.co/u/martin-yip)  
 
 ### 📊My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyip220)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinyip220&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=martinyip220)  
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyip220&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=martinyip220&show_icons=true&count_private=true&theme=transparent&hide_border=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com?user=martinyip220&theme=tokyonight_duo&hide_border=true)
+  
+ </div>
 
 ![Profile views](https://gpvc.arturio.dev/martinyip220)  
