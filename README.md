@@ -1,5 +1,9 @@
 ### Hi there 👋, Martin Yip  
-#### Full-Stack Software Engineer
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&vCenter=true&width=435&height=55&lines=%3CFull-Stack+Software+Engineer%3E;%3CPassionate+and+Driven%3E;%3CLet's+Connect!%3E" alt="welcome")>
+</div>
+
 ![Full-Stack Software Engineer](https://i.imgur.com/UJy3q0M.png)
 
 A software developer based in San Francisco 🌉 with a passion for problem-solving and creating impactful applications that can reach a large number of users. I love going to the gym 🏋️‍♂️, watching new shows 📽️, and going out with friends 🥳. UC Riverside Graduate 🎓, BS in Biochemistry 🧪 with an emphasis in Medical Sciences.
